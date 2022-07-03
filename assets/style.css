@@ -7,15 +7,31 @@ body {
     border-bottom: 1px solid grey;
 }
 
-.topnav a {
+topnav a {
+    margin: 0;
+    padding: 5px;
+    color: black;
+}
+
+.topnav-left {
     float: left;
+    font-style: italic;
+    font-family: 'Grand Hotel';
+    
+}
+
+.topnav a:hover {
+    color: blue;
+}
+.topnave a:active {
+    color: blue
+}
+
+.topnav-right {
+    float: right;
     font-size: large;
     color: black;
     text-align: center;
     text-decoration: none;
     padding: 14px 16px;
-}
-
-.topnav a:hover {
-    color: blue;
 }
