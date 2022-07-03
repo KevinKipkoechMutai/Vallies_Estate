@@ -1,0 +1,21 @@
+body {
+    background-color: #FAFAFA;
+}
+
+.topnav {
+    overflow: hidden;
+    border-bottom: 1px solid grey;
+}
+
+.topnav a {
+    float: left;
+    font-size: large;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+.topnav a:hover {
+    color: blue;
+}
