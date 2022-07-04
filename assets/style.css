@@ -93,3 +93,90 @@ a:active {
     font-weight: 200;
 }
 
+.box3 h1:nth-child(2){
+    text-align: center;
+}
+
+.box3 p{
+    text-align: center;
+}
+
+.minibox3 {
+    display: flex;
+    justify-content: center;
+}
+
+.minibox3 img {
+    height: 200px;
+}
+
+.minibox3 div {
+    align-items: center;
+    border: 1px solid whitesmoke;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.box3 h1:first-child {
+    margin-left: 110px;
+}
+
+.minibox3 div:nth-child(2){
+    border: 1px solid white;
+    box-shadow: 3px 3px 3px grey;
+}
+
+.c {
+    font-size: 30px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+}
+
+.end{
+    background-color: #2549d3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+
+.box4 {
+    display: flex;
+}
+
+.box4 img {
+    height: 290px;
+    margin-top: 30px;
+}
+
+.im img {
+    width: 30%;
+}
+
+.im{
+    display: flex;
+}
+
+.houseimage {
+    width: 80%;
+    text-align: center;
+}
+
+.esteemed {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    text-align: center;
+}
+
+.esteemed div {
+    width: 30%;
+}
