@@ -34,7 +34,10 @@ To install and run this project, you need:
 4. Alternatively, you can see the website through this gh-pages link: https://kevinkipkoechmutai.github.io/Vallies_Estate/ 
 ## **Technology Used**
 -HTML: Used to construct the page's structure and add content.
+
 -CSS: Used to style the page and make it as appealing as possible. 
+
+-Markdown: Used to write this readme file.
 ## **Reference**
 
 ## **License**
