@@ -1,5 +1,7 @@
 # Vallie's Estate Clone Website.
-This is a description of all activities that were involved throughout the process.
+This is recreation of the Vallie's Estate website, 07/07/2022
+
+By Kevin Kipkoech
 
 ## **Table of Contents**
 [Description](#description)
@@ -22,7 +24,7 @@ This is a description of all activities that were involved throughout the proces
 
 [Author Contact Info](#authorcontactinfo)
 ## **Description**
-Real estate is a booming business across the world. Therefore, real estate organizations need websites through which they can market themselves and engage their customers online. An example in Vallie's Estate, whose website is designed in this project. 
+The main purpose of this website is to market the property of Vallie's Estate to potential customers online. It contains notable listings, locations, prices, testimonials, and contact information.
 ## **Installation Requirements**
 To install and run this project, you need:
 -a laptop with a pre-installed operating system.
@@ -34,7 +36,10 @@ To install and run this project, you need:
 4. Alternatively, you can see the website through this gh-pages link: https://kevinkipkoechmutai.github.io/Vallies_Estate/ 
 ## **Technology Used**
 -HTML: Used to construct the page's structure and add content.
+
 -CSS: Used to style the page and make it as appealing as possible. 
+
+-Markdown: Used to write this readme file.
 ## **Reference**
 
 ## **License**
@@ -48,3 +53,4 @@ LinkedIn: [Kevin Kipkoech](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
 
 
  
+
